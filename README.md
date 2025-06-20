@@ -14,9 +14,9 @@
 <!-- Start Intro -->
 <p align="left">My name is Nathan and I work as a Threat Analyst. </p>
 
-I'm in the process of developing a cybersecurity wiki that will encompass a range of topics. This wiki will provide documentation on software usage, a glossary of common terms, red team tactics/techniques, and other resources.
+I'm in the process of developing a Information Technology wiki that will encompass a range of topics.
 
-Whether you're a seasoned expert or just starting out in the field, I am always happy to connect and chat about the latest trends, challenges, and opportunities in Cyber Security. Don't hesitate to reach out to me for a chat at any time!
+Whether you're a seasoned expert or just starting out in the field, I am always happy to connect and chat about the latest trends, challenges, and opportunities in Cyber Security. Thanks for stopping by!
 <!-- End Intro -->
 
 <!-- Profile Count Badge and Followers Badge -->
