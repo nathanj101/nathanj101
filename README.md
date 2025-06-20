@@ -2,7 +2,7 @@
 ![GitHub Banner](./GitHubBannerImage.png)
 
 
-<!-- Cyb3rN8TE image -->
+<!-- nathanj101 image -->
 <div>
   <img align="right" width="40%" src="./Profile_pic.png">
 </div>
@@ -21,8 +21,8 @@ Whether you're a seasoned expert or just starting out in the field, I am always 
 
 <!-- Profile Count Badge and Followers Badge -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Cyb3rN8TE&label=Profile%20views&color=529E18&style=for-the-badge&logo=star" alt="Cyb3rN8TE" style="padding-right:20px;" />
-  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/cyb3rn8te?color=529E18&style=for-the-badge&logo=github&label=Follow" />
+  <img src="https://komarev.com/ghpvc/?username=nathanj101&label=Profile%20views&color=529E18&style=for-the-badge&logo=star" alt="nathanj101" style="padding-right:20px;" />
+  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/nathanj101?color=529E18&style=for-the-badge&logo=github&label=Follow" />
 </p>
 
 ---
@@ -34,7 +34,7 @@ Whether you're a seasoned expert or just starting out in the field, I am always 
     <img width="500px" src="https://skillicons.dev/icons?i=vscode,c,cs,cpp,powershell,py,java,html,js,md,php,postgres,windows,linux,redhat,bsd,wordpress,twitter,regex,ps,nginx,kali,grafana,github,discord,css,cloudflare&perline=10"/>
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cyb3rN8TE&show_icons=true&locale=en&layout=compact" alt="Cyb3rN8TE"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanj101&show_icons=true&locale=en&layout=compact" alt="nathanj101"/>
 </p>
 
 <!-- Projects -->
@@ -44,17 +44,17 @@ Whether you're a seasoned expert or just starting out in the field, I am always 
 <h2 align="center">Projects</h2>
 <br>
 <div align="center">
-  <a href="https://github.com/Cyb3rN8TE/LRWC-Log-Beautify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyb3rn8te&repo=LRWC-Log-Beautify" alt="LRWC-Log-Beautify">
+  <a href="https://github.com/nathanj101/LRWC-Log-Beautify">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathanj101&repo=LRWC-Log-Beautify" alt="LRWC-Log-Beautify">
   </a>
-  <a href="https://github.com/Cyb3rN8TE/DefangIt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyb3rn8te&repo=DefangIt" alt="DefangIt">
+  <a href="https://github.com/nathanj101/DefangIt">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathanj101&repo=DefangIt" alt="DefangIt">
   </a>
-  <a href="https://github.com/Cyb3rN8TE/IOC-Builder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyb3rn8te&repo=IOC-Builder" alt="IOC-Builder">
+  <a href="https://github.com/nathanj101/IOC-Builder">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathanj101&repo=IOC-Builder" alt="IOC-Builder">
   </a>
-  <a href="https://github.com/Cyb3rN8TE/RegKeyCanine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyb3rn8te&repo=RegKeyCanine" alt="RegKeyCanine">
+  <a href="https://github.com/nathanj101/RegKeyCanine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nathanj101&repo=RegKeyCanine" alt="RegKeyCanine">
   </a>
 </div>
 
@@ -68,16 +68,16 @@ Whether you're a seasoned expert or just starting out in the field, I am always 
     <td width="50%">
       <h3 align="center"><strong>GitHub Stats</strong></h3>
       <p align="center">
-        <a href="https://github.com/Cyb3rN8TE">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cyb3rN8TE&count_private=true&show_icons=true&theme=gotham" alt="GitHub Stats" />
+        <a href="https://github.com/nathanj101">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=nathanj101&count_private=true&show_icons=true&theme=gotham" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
-        <a href="https://github.com/Cyb3rN8TE">
-          <img align="center" src="https://streak-stats.demolab.com?user=Cyb3rN8TE&theme=gotham&hide_border=true" alt="Streak Stats" />
+        <a href="https://github.com/nathanj101">
+          <img align="center" src="https://streak-stats.demolab.com?user=nathanj101&theme=gotham&hide_border=true" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -88,7 +88,7 @@ Whether you're a seasoned expert or just starting out in the field, I am always 
 <!-- Contribution Graph -->
 <h2 align="center">Contribution Graph</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyb3rN8TE&bg_color=011627&color=ffffff&line=529E18&point=ffeb95&area=true&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nathanj101&bg_color=011627&color=ffffff&line=529E18&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
 <!-- Links Section -->
@@ -99,13 +99,13 @@ Whether you're a seasoned expert or just starting out in the field, I am always 
     <img src="https://img.shields.io/badge/Website-529E18?style=for-the-badge&logo=website&logoColor=white" alt="Website" style="margin-bottom: 5px;" />
   </a>
   <a href="https://wiki.nwinfotech.net" target="_blank">
-    <img src="https://img.shields.io/badge/Wiki-529E18?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Cyb3rN8TE Wiki" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/Wiki-529E18?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Nathan's Info-Tech Wiki" style="margin-bottom: 5px;" />
   </a>
   <a href="https://twitter.com/Cyb3rN8TE" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Cyb3rN8TE Twitter" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://linktr.ee/Cyb3rN8TE" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-529E18?style=for-the-badge&logo=linktree&logoColor=white" alt="Cyb3rN8TE Linktree" style="margin-bottom: 5px;" />
+  <a href="https://linktr.ee/nathanj101" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-529E18?style=for-the-badge&logo=linktree&logoColor=white" alt="nathanj101 Linktree" style="margin-bottom: 5px;" />
   </a>
 </div>
 <br/>
